@@ -1,2 +1,2 @@
 # Medical-Appointment-Analysis-
-Medical appointment analysis (cleaning - visualization - conclusion ) 
+This project provides analysis of data about patients who attend their appointments on time or didn't attend at all , by asking questions we analyze the factors for not attending the appointments and draw conclusions to help understand the reasons , This analysis include the dataset and the process of cleaning and visualizing it to have finally a good intuition  about it 
